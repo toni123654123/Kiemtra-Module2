@@ -41,7 +41,7 @@ public class BookPhone {
     public void remoteUser(String phone){
     }
     public void show(){
-        for (User user:list){
+        for (User user: list){
             System.out.println(user);
         }
     }
